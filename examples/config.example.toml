@@ -1,0 +1,15 @@
+[extractor]
+engine_root = "C:/Program Files/Epic Games/UE_5.4"
+stub_project_template = "C:/UE/ApiExtractionTemplate"
+host_project_file = "ApiExtractionTemplate.uproject"
+host_module_name = "ApiHost"
+host_module_build_cs = "Source/ApiHost/ApiHost.Build.cs"
+host_target_name = "ApiExtractionTemplateEditor"
+editor_target_name = "ApiExtractionTemplateEditor"
+platform = "Win64"
+configuration = "Development"
+workspace_root = "./.work"
+output_root = "./outputs"
+# ubt_path = "C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe"
+
+# symbol_dump_path = "C:/temp/GameplayAbilities.symbols.txt"

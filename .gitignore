@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.work/
+outputs/*/api_index.json
+outputs/*/api_index.sqlite

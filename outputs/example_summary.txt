@@ -1,0 +1,8 @@
+Module: GameplayAbilities
+Module Type: Runtime
+Engine Version: 5.4.0
+Symbol Count: 142
+
+Top symbols:
+- class UGameplayAbility
+- struct FGameplayAbilitySpec
